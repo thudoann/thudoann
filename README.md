@@ -1,4 +1,5 @@
-- 👋 Hi, I’m currently 
+### 👋 Hi,  
+- I’m currently 
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on Database project
