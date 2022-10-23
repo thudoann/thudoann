@@ -6,7 +6,7 @@
 
 [![Anh Thu's github stats](https://github-readme-stats.vercel.app/api?username=thudoann&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thudoann)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 thudoann/thudoann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
