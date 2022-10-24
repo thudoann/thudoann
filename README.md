@@ -1,6 +1,6 @@
 ### 👋 Hi,  
 - 😎 I’m currently a fourth-year student in Data Science in Cy Tech (ex-Eisti)
-- Looking to collaborate on data related projects
+- 🤖 Looking to collaborate on data related projects
 - 🌱 Actively seeking for an end-of-study internship in Data Science starting from the beginning of 2023
 - 📫 Mail me at thudoann45@gmail.com
 
