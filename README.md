@@ -21,8 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thudoann&show_icons=true&locale=en&layout=compact" alt="thudoann" /></p>
 
-[![Anh Thu's github stats](https://github-readme-stats.vercel.app/api?username=thudoann&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)]
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thudoann&show_icons=true&locale=en" alt="thudoann" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thudoann&" alt="thudoann" /></p>
