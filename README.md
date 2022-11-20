@@ -6,6 +6,10 @@ You can click the Preview link to take a look at your changes.
 
 - 😎 I’m currently a fourth-year student in Data Science in Cy Tech (ex-Eisti)
 
+- 🥕 I’m currently learning **Geospatial Data Statistics**
+
+- 👨‍💻 All of my projects are available at [https://thudoann.github.io/2022-11-19-Anh-Thu's-Portfolio/](https://thudoann.github.io/2022-11-19-Anh-Thu's-Portfolio/)
+
 - 🤖 Looking to collaborate on data related projects
 
 - 🌱 Actively seeking for an end-of-study internship in Data Science starting from the beginning of 2023
