@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🥕 I’m currently learning **Geospatial Data Statistics**
 
-- 👨‍💻 Check on my projects are available at [my porfolio](https://thudoann.github.io/2022-11-19-Anh-Thu's-Portfolio/)
+- 👨‍💻 Check on my projects at [my porfolio](https://thudoann.github.io/2022-11-19-Anh-Thu's-Portfolio/)
 
 - 🤖 Looking to collaborate on data related projects
 
