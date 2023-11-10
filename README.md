@@ -4,15 +4,13 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Anh Thu</h1>
 
-- 😎 I’m currently a fourth-year student in Data Science in Cy Tech (ex-Eisti)
-
-- 🥕 I’m currently working as Data Analyst Intern at Safran
+- 😎 I’m currently a fifth-year student in Artificial Intelligence at Cy Tech (ex-Eisti)
 
 - 👨‍💻 Check on my projects at [my porfolio](https://thudoann.github.io/2022-11-19-Anh-Thu's-Portfolio/)
 
-- 🤖 Looking to collaborate on data related projects
+- 🤖 Looking to collaborate on data-related projects
 
-- 🌱 Actively seeking for an end-of-study internship in Data Science starting from the beginning of 2023
+- 🌱 Actively seeking an end-of-study internship opportunity in Data and AI starting from the beginning of May 2024
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thudoann&label=Profile%20views&color=0e75b6&style=flat" alt="thudoann" /> </p>
 
