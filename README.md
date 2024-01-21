@@ -2,7 +2,7 @@
 thudoann/thudoann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi 👋, I'm Anh Thu</h1>
+<h1 align="center">Hello 👋, My name is Anh Thu</h1>
 
 - 😎 I’m currently a fifth-year student in Artificial Intelligence at Cy Tech (ex-Eisti)
 
