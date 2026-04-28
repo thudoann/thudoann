@@ -2,7 +2,7 @@
 
 **AI Research Engineer · Data Scientist · Paris, France**
 
-I build ML systems where biology meets data — from clinical NLP pipelines and generative healthcare models to RNA-seq workflows. Currently at **Loamics** developing privacy-preserving AI for French healthcare. Looking to collaborate on data-driven biotech projects.
+I build ML systems where biology meets data - from clinical NLP pipelines and generative healthcare models to RNA-seq workflows. Currently at **Loamics** developing privacy-preserving AI for French healthcare. Looking to collaborate on data-driven biotech projects.
 
 ---
 
