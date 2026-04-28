@@ -6,8 +6,6 @@ I build ML systems where biology meets data — from clinical NLP pipelines and 
 
 ---
 
-## Stack
-
 ## Skills
 
 **Languages**
