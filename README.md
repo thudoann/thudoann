@@ -61,11 +61,12 @@ I build ML systems where biology meets data — from clinical NLP pipelines and 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thudoann&layout=compact&hide_border=true&theme=default&title_color=085041&langs_count=6" alt="Top languages" />
+<table><tr>
+<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=thudoann&hide_border=true&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75" alt="streak" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thudoann&layout=compact&hide_border=true&title_color=085041&langs_count=6" alt="Top languages" /></td>
+</tr></table>
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=thudoann&margin-w=8&no-frame=true&theme=flat&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=thudoann&margin-w=4&no-frame=true&theme=flat&column=6" alt="Trophies" />
 
 </div>
 
