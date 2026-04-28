@@ -57,6 +57,21 @@ I build ML systems where biology meets data — from clinical NLP pipelines and 
 
 ---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thudoann)
-![Trophies](https://github-profile-trophy.vercel.app/?username=thudoann&margin-w=4)
-![Profile views](https://komarev.com/ghpvc/?username=thudoann&label=Profile+views&color=0e75b6&style=flat)
+## Stats
+
+<div align="center">
+
+<table><tr>
+<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=thudoann&hide_border=true&background=00000000&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75" alt="streak" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=thudoann&show_icons=true&hide_border=true&bg_color=00000000&title_color=085041&icon_color=1D9E75" alt="stats" /></td>
+</tr></table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thudoann&layout=compact&hide_border=true&bg_color=00000000&title_color=085041&langs_count=6" alt="Top languages" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=thudoann&margin-w=4&no-bg=true&no-frame=true&theme=flat&column=6" alt="Trophies" />
+
+</div>
+
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=thudoann&label=Profile+views&color=1D9E75&style=flat-square" alt="Profile views" />
+</div>
