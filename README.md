@@ -1,25 +1,32 @@
-<!---
-thudoann/thudoann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h1 align="center">Hello 👋, My name is Anh Thu</h1>
+# Hi, I'm Anh Thu 👋
 
-- 😎 I’m currently working as AI engineer / Data Scientist at Loamics
+**AI Research Engineer · Data Scientist · Paris, France**
 
-- 🤖 Looking to collaborate on data-driven projects, preferably in the biotech domain. Open to innovative ideas and meaningful collaborations! 
+I build ML systems where biology meets data — from clinical NLP pipelines and generative healthcare models to RNA-seq workflows. Currently at **Loamics** developing privacy-preserving AI for French healthcare. Looking to collaborate on data-driven biotech projects.
 
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thudoann&label=Profile%20views&color=0e75b6&style=flat" alt="thudoann" /> </p>
+## Stack
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thudoann" alt="thudoann" /></a> </p>
+| | |
+|---|---|
+| **Languages** | Python · Java · SQL |
+| **ML / AI** | PyTorch · TensorFlow · scikit-learn · BERT · GANs · Diffusion models |
+| **NLP / Bio** | NER · ICD-10 · SNOMED · UMLS · RNA-seq · Nextflow |
+| **Data & infra** | pandas · PostgreSQL · Docker · Redis · Git · Power BI · Linux |
+| **Design** | Figma |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/thudoann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thudoann" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thudoann&" alt="thudoann" /></p>
+## Connect
+
+[![Email](https://img.shields.io/badge/Email-thudoann45%40gmail.com-teal?logo=gmail&logoColor=white)](mailto:thudoann45@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-thudoann-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/thudoann)
+[![GitHub](https://img.shields.io/badge/GitHub-thudoann-181717?logo=github&logoColor=white)](https://github.com/thudoann)
+
+---
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thudoann)
+![Trophies](https://github-profile-trophy.vercel.app/?username=thudoann&margin-w=4)
+![Profile views](https://komarev.com/ghpvc/?username=thudoann&label=Profile+views&color=0e75b6&style=flat)
