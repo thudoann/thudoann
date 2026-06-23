@@ -22,28 +22,6 @@
 · · ·
 
 <br>
-
-**MACHINE&nbsp;LEARNING**
-<br>
-<sub>Python &nbsp;·&nbsp; PyTorch &nbsp;·&nbsp; TensorFlow &nbsp;·&nbsp; scikit-learn &nbsp;·&nbsp; BERT &nbsp;·&nbsp; GANs &nbsp;·&nbsp; Diffusion</sub>
-
-<br>
-
-**NLP&nbsp;&amp;&nbsp;BIOINFORMATICS**
-<br>
-<sub>NER &nbsp;·&nbsp; ICD-10 &nbsp;·&nbsp; SNOMED &nbsp;·&nbsp; UMLS &nbsp;·&nbsp; RNA-seq &nbsp;·&nbsp; Nextflow</sub>
-
-<br>
-
-**DATA&nbsp;&amp;&nbsp;INFRASTRUCTURE**
-<br>
-<sub>pandas &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; Redis &nbsp;·&nbsp; Power&nbsp;BI &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Linux &nbsp;·&nbsp; Git &nbsp;·&nbsp; GitLab</sub>
-
-<br>
-
-· · ·
-
-<br>
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=15&pause=2000&color=8B949E&center=true&vCenter=true&width=520&lines=Open+to+data-driven+biotech+collaborations.;Let%27s+build+something.+%E2%9C%89" alt="signoff" />
