@@ -13,7 +13,7 @@
 
 </div>
 
-> Anh Thu is an AI Research Engineer and Data Scientist building ML systems where biology meets data - from clinical NLP pipelines and generative healthcare models to RNA-seq workflows. She currently develops privacy-preserving AI for French healthcare at Loamics, and is open to data-driven biotech collaborations.
+> AI Research Engineer & Data Scientist turning biological and clinical data into AI systems. Building privacy-preserving healthcare AI, clinical NLP systems, and RNA-seq workflows at the intersection of machine learning, genomics, and life sciences. Open to biotech and health AI collaborations.
 
 <br>
 
